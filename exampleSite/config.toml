@@ -1,4 +1,4 @@
-baseURL = "https://postgres-saha.netlifycom"
+baseURL = "https://postgres-saha.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
