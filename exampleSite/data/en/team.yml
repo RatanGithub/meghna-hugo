@@ -5,7 +5,7 @@ team:
   team_member:
   - name: Ratan D
     image_webp: images/team/team-1.webp
-    image: images/team/1610751069716.jpg
+    image: "/images/photo.jpg"
     designation: CEO/Founder
     content: Jab ddal ge tab dalenge
     social: []
